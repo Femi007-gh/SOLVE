@@ -1,0 +1,76 @@
+<html>
+<head>
+    <title>Deployed IT Solutions</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="logo">
+            <img src="Images/logo.svg" alt="Deployed IT Logo" class="log">
+        </div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Blog</a></li>
+            </ul>
+        </nav>
+        <button class="contact-btn">Contact Us</button>
+    </header>
+        </div>
+    </section>
+    <img class="pic" src="Images/bg.jpg">
+
+    <h1 class="us"><i>Contact Us</i></h1>
+    <p class="for">For any support, Please call or send us an email. Our</p>
+    <p class="team">Support team will get back to you within 24 hours.</p>
+    <p class="ben">(888) 507-7631</p>
+    <p class="ten">info@deployeditsolutions.com</p>
+    <p class="pen">15640 NE Fourth Plain Blvd Ste 106 #134</p>
+    <p class="hen">VANCOUVER, WA 98682.</p>
+
+    <div>
+        <form class="form">
+  
+          <input class="name" type="text" placeholder="Your Name">
+          
+          <br><input class="email" type="text" placeholder="Your Email"></br>
+  
+          <input class="sub" type="text" placeholder="Subject">
+  
+          <br>
+          <input class="message" type="text" placeholder="Message">
+        </br>
+          <br>
+           <button class="send">Send Message</button>
+          </br>
+       </form>
+      </div>
+
+      <div class="images">
+        <img class="pic1" src="Images/carousel-2.png" alt="red">
+        <img class="pic2" src="Images/carousel-1 .png" alt="blue">
+        <img class="pic3" src="Images/carousel-3.png" alt="green">
+        <img class="pic4" src="Images/carousel-4.png" alt="yellow">
+        </div>
+        
+        <div class="div7"></div>
+        <div class="div7-7"></div>
+         <h1 class="head2">Deployed IT</h1>
+         <p class="head">Solutions</p>
+         <p class="browse">Browse our services <span class="span2">or</span> contact us<span class="span3"> if you need help.
+         </span></p>
+         <div class="div8"></div>
+      <h2 class="head3">Get mails from us</h2>
+      <div class="newsletter">
+          <input class="text" type="text" placeholder="Subscribe to our newsletter">
+          <button class="go">Go</button>
+         </div>
+           <img class="bird" src="Images/twitter-icon.png">
+           <img class="m" src="Images/insta-icon.png">
+           <img class="in" src="Images/linkedin-icon.png">
+          <div class="div9"></div>
+          <p class="para4">© Deployeditsolutions</p>
+          <p class="para">2024</p>
+          </div>
